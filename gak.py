@@ -8,7 +8,7 @@ API_URL = 'https://api.telegram.org/bot'
 CAT_API_URL = "https://api.thecatapi.com/v1/images/search"
 TEXT = "Вижу"
 ERROR_TEXT = "неработет"
-MAX_COUNTER = 15
+MAX_COUNTER = 5
 
 offset = -2
 counter = 0
